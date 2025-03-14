@@ -53,7 +53,7 @@ This is a simple To-Do List application built with React Native. The app allows 
 - Improve UI/UX with more styling options.
 
 ## Author
-[Your Name]
+Mahmoud Ashraf Gad
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
