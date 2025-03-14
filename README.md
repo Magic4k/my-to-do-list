@@ -51,7 +51,8 @@ This is a simple To-Do List application built with React Native. The app allows 
 - Add persistent storage using AsyncStorage or Firebase.
 - Implement animations for better user experience.
 - Improve UI/UX with more styling options.
-- 
+
+  VIDEO 
 https://github.com/user-attachments/assets/3b03efe6-5485-4745-bb04-a515ea4564c8
 
 ## Author
